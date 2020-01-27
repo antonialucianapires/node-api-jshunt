@@ -1,0 +1,30 @@
+{
+  "name": "api-jshunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonialucianapires/node-api-jshunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonialucianapires/node-api-jshunt/issues"
+  },
+  "homepage": "https://github.com/antonialucianapires/node-api-jshunt#readme",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "dir": "^0.1.2",
+    "mongoose": "^5.8.9",
+    "require": "^2.4.20"
+  }
+}
